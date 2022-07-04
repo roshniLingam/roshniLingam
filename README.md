@@ -1,6 +1,6 @@
 ### Hi there 👋 Roshni's here....
 
-</br><p>I am a student pursuing B.Tech in Computer Science and Engineering at GH Raisoni College of Engineering, Nagpur. I am currently working as an android development intern as Virtual Farm.</p>
+</br><p>I am a final year student pursuing B.Tech in Computer Science and Engineering from GH Raisoni College of Engineering, Nagpur, Maharashtra, India. I had worked as an Android Development intern at Virtual Farm.</p>
 
 <!--
 **roshniLingam/roshniLingam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,13 +16,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...She/Her
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on ...Android Development
-- 🌱 I’m currently learning ...Kotlin, Java
-- 👯 I’m looking to collaborate on ...Android Application
-- 📫 How to reach me: ...[LinkedIn](https://www.linkedin.com/in/roshni-lingam)
-- 🤔 I’m looking for help with ...Cloud Computing(AWS, GCP)
-- 😄 Pronouns: ...She/Her
-- ⚡ Fun fact: ...I love coffee and music
+- 🔭 I’m currently working on <b>Web Development</b>
+- 🌱 I’m currently learning <b>JavaScript, Node.js, Java</b>
+- 👯 I’m looking to collaborate on <b>Full Stack Web Application</b>
+- 📫 How to reach me: <b>[LinkedIn](https://www.linkedin.com/in/roshni-lingam)</b>
+- 🤔 I’m looking for help with <b>Cloud Computing(AWS, GCP), DevOps</b>
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I love coffee and code
 
 ### Languages and Tools:
 
@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 </br> </br>
 
 ### Connect me on:
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />]()
+<!--[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />]()-->
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/roshni-lingam)
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />]()
+<!--[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />]()-->
 [<img align="left" alt="codeSTACKr | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />]()
 [<img align="left" alt="codeSTACKr | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:roshnilingam2001@gmail.com)
 
