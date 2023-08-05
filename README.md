@@ -16,11 +16,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...She/Her
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on <b>Web Development</b>
-- 🌱 I’m currently learning <b>JavaScript, Node.js, Java</b>
-- 👯 I’m looking to collaborate on <b>Full Stack Web Application</b>
+- 🔭 I’m currently working on <b>Springboot Applications, AWS</b>
+- 🌱 I’m currently learning <b>Java, Microservice Architecture</b>
+- 👯 I’m looking to collaborate on <b>Java Full Stack Application</b>
 - 📫 How to reach me: <b>[LinkedIn](https://www.linkedin.com/in/roshni-lingam)</b>
-- 🤔 I’m looking for help with <b>Cloud Computing(AWS, GCP), DevOps</b>
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love coffee and code
 
