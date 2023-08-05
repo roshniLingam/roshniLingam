@@ -46,5 +46,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="codeSTACKr | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:roshnilingam2001@gmail.com)
 
 </br></br>
-
+<!--Github Stats-->
+<!--
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=roshniLingam&show_icons=true&hide_border=false&&count_private=true&include_all_commits=true" />
+-->
