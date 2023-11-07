@@ -1,13 +1,15 @@
-### Hi there 👋 Roshni's here....
+### Hi there 👋 Roshni's here
 
-</br><p>I am a final year student pursuing B.Tech in Computer Science and Engineering from GH Raisoni College of Engineering, Nagpur, Maharashtra, India. I had worked as an Android Development intern at Virtual Farm.</p>
+</br><p>I am a 2023 B.Tech in Computer Science and Engineering graduate from GH Raisoni College of Engineering, Nagpur, Maharashtra, India. 
+I was a 6-month intern at Amazon as Support Engineer 2 (Jan 2023 - Jun 2023)
+I had worked as an Android Development intern at Virtual Farm.</p>
 
 <!--
 **roshniLingam/roshniLingam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...Android Development
+- 🔭 I’m currently working on ...Java and Spring Boot
 - 🌱 I’m currently learning ...Kotlin, Java
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
